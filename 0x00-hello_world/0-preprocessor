@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $cfile -o output.c
+gcc -E $CFILE -o output.c
